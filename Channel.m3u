@@ -164,6 +164,6 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="movies",hbo
 http://king365-tv.com:2103/tre/1234/3522
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="football",mnc sport
-https://anevia114.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel-mp4a_98800_eng=3-1628836600456311.mp4
+https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel-mp4a_98800_eng=3-1628836600456311.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="football",mnc sport
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mpd
