@@ -161,6 +161,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1582897116~acl=/hls-p/ingest_875_*
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="premium",Disney junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="bar-bar",liga1
-https://token-media-vidio-com.akamaized.net/exp=1582908829~acl=/uploads/1904155/*~hmac=eb1f078f5dc93c5493c8f315c08c40d7f135fdf24825b9d1d16f5aef8c7ef1b0/uploads/1904155/ets-teaser-20launching-20rev-205-20sosmed-0183_ca9f7eb2_low.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="movies",hbo
+http://king365-tv.com:2103/tre/1234/3522
 
